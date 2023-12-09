@@ -16,7 +16,6 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [CloudLand](https://www.cloudland.org/en/home/) | Brühl, Germany | no | 20-23 June 2023 | - |
 | [Voxxed Days Luxembourg](https://luxembourg.voxxeddays.com/en/) | Mondorf-les-Bains, Luxembourg | no | 21-22 June 2023 | - |
 | [DevBcn](https://devbcn.com) | Barcelona, Spain | no | 3-5 July 2023 | - |
-| [JCrete](https://www.jcrete.org) | Chania, Greece | no | 2-8 July 2023 | Unconference, no CFP |
 | [Java Forum Stuttgart](https://www.java-forum-stuttgart.de) | Stuttgart, Germany | no | 12-13 July 2023 | [Workshops](https://www.java-forum-stuttgart.de/call-for-workshops/) |
 | [JavaZone](https://2023.javazone.no) | Oslo, Norway | no | 7-8 September 2023 | [Link](https://2023.javazone.no/speakers) (Closed April 17) |
 | [Devoxx Belgium](https://devoxx.be) | Antwerp, Belgium | no | 2-6  October 2023 | Closed July 14 |
@@ -27,11 +26,9 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [oredev](https://oredev.org) | Malmö, Sweden | no | 8-10 November 2023 | [Link](https://docs.google.com/forms/d/e/1FAIpQLSeagtEnnQhXve5TbubBrFgpxSMJa_wosPutqEdQOkNN9TAanQ/viewform) (Closed) |
 | [Java Tage 2023](https://www.ittage.informatik-aktuell.de/) | Frankfurt, Germany | no | 11-14 December 2023 | [Link](https://www.ittage.informatik-aktuell.de/call-for-papers.html) (Closed April 8) |
 | [Jfokus](https://www.jfokus.se) | Stockholm, Sweden | no | 5-7 February 2024 | [Link](https://sessionize.com/jfokus-2024/) (Closed September 30) |
-| [FOSDEM](https://fosdem.org) | Brussels, Belgium | yes | 3-4 February 2024 | - | 
 | [Voxxed Days Bucharest](https://romania.voxxeddays.com/voxxed-days-bucharest-2024/) | Bucharest, Romania | no | 27-29 March 2024 | [Link](https://vdbuh2024.cfp.dev/#/) (Closes December 31) |
 | [QCon London](https://qconlondon.com) | London, UK | no | 8-10 April 2024 | By invitation |
 | [JavaLand](https://www.javaland.eu/) | Nürburg, Germany | no | 9-11 April 2024 | [Link](https://www.javaland.eu/en/speakers/) (Closes October 24) |
-| [JAX Hybrid](https://jax.de/mainz) | Mainz, Germany | yes | 22-26 April 2024 | [Link](https://callforpapers.sandsmedia.com/) |
 | [Devoxx UK](https://www.devoxx.co.uk) | London, UK | no | 8-10 May 2024 | [Link](https://devoxxuk24.cfp.dev/#/login) (Closes January 12th, 2024) |
 | [JCON EUROPE](https://2024.europe.jcon.one/) | Cologne, Germany | no | 13-16 May 2024 | [Link](https://sessionize.com/jcon-europe-2024) (Closes November 30th, 2023) |
 | [GeeCON](https://2024.geecon.org) | Krakow, Poland | no | 15-17 May 2024 | [Link](https://2024.geecon.org/cfp/) (Closes January 31st, 2024) |
