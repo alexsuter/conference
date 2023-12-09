@@ -18,9 +18,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [JavaZone](https://2023.javazone.no) | Oslo, Norway | no | 7-8 September 2023 | [Link](https://2023.javazone.no/speakers) (Closed April 17) |
 | [Devoxx Belgium](https://devoxx.be) | Antwerp, Belgium | no | 2-6  October 2023 | Closed July 14 |
 | [GeeCON Prague](https://2023.geecon.cz/) | Prague, Czech Republic | no | 19-20 October 2023 | [Link](https://2023.geecon.cz/cfp/) (Closes September 8) |
-| [Accento](https://accento.dev) | Karlsruhe, Germany | no | 24-25 October 2023 | [Link](https://www.papercall.io/accento-2023) (Closed April 1) |
 | [oredev](https://oredev.org) | Malmö, Sweden | no | 8-10 November 2023 | [Link](https://docs.google.com/forms/d/e/1FAIpQLSeagtEnnQhXve5TbubBrFgpxSMJa_wosPutqEdQOkNN9TAanQ/viewform) (Closed) |
-| [Java Tage 2023](https://www.ittage.informatik-aktuell.de/) | Frankfurt, Germany | no | 11-14 December 2023 | [Link](https://www.ittage.informatik-aktuell.de/call-for-papers.html) (Closed April 8) |
 | [Jfokus](https://www.jfokus.se) | Stockholm, Sweden | no | 5-7 February 2024 | [Link](https://sessionize.com/jfokus-2024/) (Closed September 30) |
 | [Voxxed Days Bucharest](https://romania.voxxeddays.com/voxxed-days-bucharest-2024/) | Bucharest, Romania | no | 27-29 March 2024 | [Link](https://vdbuh2024.cfp.dev/#/) (Closes December 31) |
 | [JavaLand](https://www.javaland.eu/) | Nürburg, Germany | no | 9-11 April 2024 | [Link](https://www.javaland.eu/en/speakers/) (Closes October 24) |
