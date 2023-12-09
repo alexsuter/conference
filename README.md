@@ -8,7 +8,6 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [GeeCON](https://www.geecon.org) | Krakow, Poland | no | 19-21 April 2023 | - |
 | [Devoxx Greece](https://devoxx.gr/) | Athens, Greece | no | 4-6 May 2023| - |
 | [J on the Beach](https://www.jonthebeach.com/) | Malaga, Spain | no | 10-12 May 2023 | - |
-| [Voxxed Days Iași](https://romania.voxxeddays.com/voxxed-days-iasi-2023/) | Iași, Romania | no | 23-24 May 2023 | [Link](https://vdlasi23.cfp.dev/) (Closed March 26) |
 | [jPrime](https://jprime.io) | Sofia, Bulgaria | no | 30-31 May 2023 | - |
 | [Devoxx Poland](https://devoxx.pl) | Krakow, Poland | no | 31 May-2 June 2023 | - |
 | [JNation](https://jnation.pt/) | Coimbra, Portugal | no | 6-7 June 2023 | - |
@@ -19,9 +18,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [DevBcn](https://devbcn.com) | Barcelona, Spain | no | 3-5 July 2023 | - |
 | [JCrete](https://www.jcrete.org) | Chania, Greece | no | 2-8 July 2023 | Unconference, no CFP |
 | [Java Forum Stuttgart](https://www.java-forum-stuttgart.de) | Stuttgart, Germany | no | 12-13 July 2023 | [Workshops](https://www.java-forum-stuttgart.de/call-for-workshops/) |
-(Closed May 31) |
 | [JavaZone](https://2023.javazone.no) | Oslo, Norway | no | 7-8 September 2023 | [Link](https://2023.javazone.no/speakers) (Closed April 17) |
-| [BED-Con 2023](https://bed-con.org/) | Berlin, Germany | yes | 28-29 September 2023 | [Link](https://bed-con.org/2023/cfp) (Closed May 22) |
 | [Devoxx Belgium](https://devoxx.be) | Antwerp, Belgium | no | 2-6  October 2023 | Closed July 14 |
 | [BaselOne](https://baselone.ch/one) | Basel, Switzerland | no | 18-19 October 2023 | [Link](https://sessionize.com/baselone2023/) (Closed April 15) |
 | [GeeCON Prague](https://2023.geecon.cz/) | Prague, Czech Republic | no | 19-20 October 2023 | [Link](https://2023.geecon.cz/cfp/) (Closes September 8) |
