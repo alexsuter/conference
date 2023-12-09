@@ -19,7 +19,6 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [Java Forum Stuttgart](https://www.java-forum-stuttgart.de) | Stuttgart, Germany | no | 12-13 July 2023 | [Workshops](https://www.java-forum-stuttgart.de/call-for-workshops/) |
 | [JavaZone](https://2023.javazone.no) | Oslo, Norway | no | 7-8 September 2023 | [Link](https://2023.javazone.no/speakers) (Closed April 17) |
 | [Devoxx Belgium](https://devoxx.be) | Antwerp, Belgium | no | 2-6  October 2023 | Closed July 14 |
-| [BaselOne](https://baselone.ch/one) | Basel, Switzerland | no | 18-19 October 2023 | [Link](https://sessionize.com/baselone2023/) (Closed April 15) |
 | [GeeCON Prague](https://2023.geecon.cz/) | Prague, Czech Republic | no | 19-20 October 2023 | [Link](https://2023.geecon.cz/cfp/) (Closes September 8) |
 | [Accento](https://accento.dev) | Karlsruhe, Germany | no | 24-25 October 2023 | [Link](https://www.papercall.io/accento-2023) (Closed April 1) |
 | [W-JAX Hybrid](https://jax.de/muenchen) | Munich, Germany | yes | 6-10 November 2023 | [Link](https://callforpapers.sandsmedia.com/) (Closed May 15) |
