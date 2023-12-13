@@ -21,10 +21,9 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [oredev](https://oredev.org) | Malmö, Sweden | no | 8-10 November 2023 | [Link](https://docs.google.com/forms/d/e/1FAIpQLSeagtEnnQhXve5TbubBrFgpxSMJa_wosPutqEdQOkNN9TAanQ/viewform) (Closed) |
 | [Jfokus](https://www.jfokus.se) | Stockholm, Sweden | no | 5-7 February 2024 | [Link](https://sessionize.com/jfokus-2024/) (Closed September 30) |
 | [Voxxed Days Bucharest](https://romania.voxxeddays.com/voxxed-days-bucharest-2024/) | Bucharest, Romania | no | 27-29 March 2024 | [Link](https://vdbuh2024.cfp.dev/#/) (Closes December 31) |
-| [JavaLand](https://www.javaland.eu/) | Nürburg, Germany | no | 9-11 April 2024 | [Link](https://www.javaland.eu/en/speakers/) (Closes October 24) |
+
 | [Devoxx UK](https://www.devoxx.co.uk) | London, UK | no | 8-10 May 2024 | [Link](https://devoxxuk24.cfp.dev/#/login) (Closes January 12th, 2024) |
 | [JCON EUROPE](https://2024.europe.jcon.one/) | Cologne, Germany | no | 13-16 May 2024 | [Link](https://sessionize.com/jcon-europe-2024) (Closes November 30th, 2023) |
-| [GeeCON](https://2024.geecon.org) | Krakow, Poland | no | 15-17 May 2024 | [Link](https://2024.geecon.org/cfp/) (Closes January 31st, 2024) |
 | [JCON OpenBlend Slovenia](https://slovenia.jcon.one) | Portorož, Slovenia | no | 29-31 May 2024 | [Link](https://sessionize.com/makeit-jcon-2024/) (Closes February 3rd, 2024) |
 | [Developer Week (DWX)](https://www.developer-week.de/) | Nuremberg, Germany | no | 1-5 July 2024 | - |
 
@@ -36,3 +35,5 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [Devoxx FR](https://www.devoxx.fr/) | Paris, France | no | 12-14 April 2023 | - |
 | [GeeCON](https://www.geecon.org) | Krakow, Poland | no | 19-21 April 2023 | - |
 | [QCon London](https://qconlondon.com) | London, UK | no | 8-10 April 2024 | By invitation |
+| [GeeCON](https://2024.geecon.org) | Krakow, Poland | no | 15-17 May 2024 | [Link](https://2024.geecon.org/cfp/) (Closes January 31st, 2024) |
+| [JavaLand](https://www.javaland.eu/) | Nürburg, Germany | no | 9-11 April 2024 | [Link](https://www.javaland.eu/en/speakers/) (Closes October 24) |
